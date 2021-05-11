@@ -1,22 +1,15 @@
 ---
-title: City of Somerville Weekly Payroll Gross Wages Over 50K_2014
-created: '2020-11-10T16:58:52.575758'
-modified: '2020-11-10T16:58:52.575765'
+title: City Of Somerville Weekly Payroll Gross Wages Over 50K_2016
+created: '2020-11-10T16:58:49.733997'
+modified: '2020-11-10T16:58:49.734007'
 state: active
 type: dataset
-tags:
-  - '2014'
-  - Budget
-  - Payroll
-  - Personnel
-  - Salaries
-  - Salary
-  - Wages
+tags: []
 groups:
   - Local Government
-csv_url: 'https://data.somervillema.gov/api/views/vkbx-ipkd/rows.csv?accessType=DOWNLOAD'
+csv_url: 'https://data.somervillema.gov/api/views/8y8c-4n45/rows.csv?accessType=DOWNLOAD'
 json_url: >-
-  https://data.somervillema.gov/api/views/vkbx-ipkd/rows.json?accessType=DOWNLOAD
+  https://data.somervillema.gov/api/views/8y8c-4n45/rows.json?accessType=DOWNLOAD
 layout: post
 
 ---

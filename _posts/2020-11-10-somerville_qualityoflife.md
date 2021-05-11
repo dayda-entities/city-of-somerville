@@ -1,0 +1,17 @@
+---
+title: Somerville_QualityOfLife
+created: '2020-11-10T16:58:49.258632'
+modified: '2020-11-10T16:58:49.258643'
+state: active
+type: dataset
+tags:
+  - Dashboard
+groups:
+  - Local Government
+csv_url: 'https://data.somervillema.gov/api/views/62z4-avqc/rows.csv?accessType=DOWNLOAD'
+json_url: >-
+  https://data.somervillema.gov/api/views/62z4-avqc/rows.json?accessType=DOWNLOAD
+layout: post
+
+---
+Contains data on selected quality of life incidents from Somerville Police Department dating back to 2015. Data has been anonymized to protect privacy.

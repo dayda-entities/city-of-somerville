@@ -10,8 +10,7 @@ source_contact_type: general
 source_phone: +1 555-555-5555
 source_email: info@example.com
 source_catalog: data.gov
-profile_pic: >-
-  https://www.somervillema.gov/sites/default/files/city-of-somerville-color-seal.png
+profile_pic: 'https://directory.dayda.org/assets/img/entities/city-of-somerville.png'
 favicon: /assets/img/favicon.png
 url: 'http://city-of-somerville.dayda.org'
 encoding: utf-8
